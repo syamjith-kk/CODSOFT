@@ -1,12 +1,9 @@
 # CODSOFT Internship Tasks
 
-This repository contains all tasks completed as part of the CODSOFT Tech Internship.
+This repository contains  tasks completed as part of the CODSOFT Tech Internship.
 
 ## Structure
-Each task is organized in a separate folder:
-- Task-1
-- Task-2
-- Task-3
+Task is organized in a separate folder:
 ...
 
 ## Author
